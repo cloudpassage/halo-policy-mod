@@ -17,11 +17,11 @@ This tool was designed to help customers quickly modify CloudPassage Halo File I
 
 Please enter the file name to convert: *wordpress-for-debian-ubuntu-linux-v3.policy.json*
 
-Original directory: */var/www/*
+Original directory: __/var/www/__
 
-New directory: */usr/share/drupal/*
+New directory: __/usr/share/drupal/__
 
-Would you like to create a new file with specific [n]ame or a new file with the version [i]ncremented? [n/i]: *i*
+Would you like to create a new file with specific [n]ame or a new file with the version [i]ncremented? [n/i]: __i__
 
 New filename will be: wordpress-for-debian-ubuntu-linux-v4.policy.json
 </code></pre>
