@@ -5,7 +5,7 @@ This tool was designed to help customers quickly modify CloudPassage Halo File I
 
 ###Usage
 
-<pre><code>$ ./hpm.rb 
+<pre><code>$ <em>./hpm.rb</em>
  __           __                          __ __                                    __ __   ___ __             
 |  |--.---.-.|  |.-----.    .-----.-----.|  |__|.----.--.--.    .--------.-----.--|  |__|.'  _|__|.-----.----.
 |     |  _  ||  ||  _  |    |  _  |  _  ||  |  ||  __|  |  |    |        |  _  |  _  |  ||   _|  ||  -__|   _|
@@ -15,13 +15,13 @@ This tool was designed to help customers quickly modify CloudPassage Halo File I
  Created by: Andrew Hay / @andrewsmhay 
  http://github.com/halopolicymod
 
-Please enter the file name to convert: *wordpress-for-debian-ubuntu-linux-v3.policy.json*
+Please enter the file name to convert: <em>wordpress-for-debian-ubuntu-linux-v3.policy.json</em>
 
-Original directory: __/var/www/__
+Original directory: <em>/var/www/</em>
 
-New directory: __/usr/share/drupal/__
+New directory: <em>/usr/share/drupal/</em>
 
-Would you like to create a new file with specific [n]ame or a new file with the version [i]ncremented? [n/i]: __i__
+Would you like to create a new file with specific [n]ame or a new file with the version [i]ncremented? [n/i]: <em>i</em>
 
 New filename will be: wordpress-for-debian-ubuntu-linux-v4.policy.json
 </code></pre>
