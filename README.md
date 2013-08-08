@@ -24,10 +24,11 @@ New directory: */usr/share/drupal/*
 Would you like to create a new file with specific [n]ame or a new file with the version [i]ncremented? [n/i]: *i*
 
 New filename will be: wordpress-for-debian-ubuntu-linux-v4.policy.json
+</code></pre>
 
 ###Contact
 
 To provide any feedback or ask any questions please reach out to Andrew Hay on Twitter at <a href="http://twitter.com/andrewsmhay" target="new">@andrewsmhay</a>.
 
 ###References
-* CloudPassage, Inc. - http://www.cloudpassage.com/
+* CloudPassage, Inc. - <a href="http://www.cloudpassage.com/">http://www.cloudpassage.com/</a>
