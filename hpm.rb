@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-
 puts " __           __                          __ __                                    __ __   ___ __             "
 puts "|  |--.---.-.|  |.-----.    .-----.-----.|  |__|.----.--.--.    .--------.-----.--|  |__|.'  _|__|.-----.----."
 puts "|     |  _  ||  ||  _  |    |  _  |  _  ||  |  ||  __|  |  |    |        |  _  |  _  |  ||   _|  ||  -__|   _|"
@@ -41,7 +40,7 @@ puts "\n"
 text = File.read(file_names)
 # Opens the file for reading, line by line
 File.open(file_names, "r").each_line do |pelement|
-	if file_decision =~ /i/
+	if file_decision =~ /i/		
 		#sub the new directory for the old one
   		output_of_gsub = text.gsub("#{orig}","#{newdir}")
   		# write the new file
