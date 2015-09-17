@@ -33,3 +33,7 @@ This tool was designed to help customers quickly modify CloudPassage Halo File I
     Would you like to create a new file with specific [n]ame or a new file with the version [i]ncrstrongented? [n/i]: <strong>i</strong>
 
     New filename will be: wordpress-for-debian-ubuntu-linux-v1.json
+    
+<!---
+#CPTAGS:community-unsupported automation
+-->
