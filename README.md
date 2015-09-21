@@ -36,4 +36,5 @@ This tool was designed to help customers quickly modify CloudPassage Halo File I
     
 <!---
 #CPTAGS:community-unsupported automation
+#TBICON:images/ruby_icon.png
 -->
