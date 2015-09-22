@@ -34,7 +34,4 @@ This tool was designed to help customers quickly modify CloudPassage Halo File I
 
     New filename will be: wordpress-for-debian-ubuntu-linux-v1.json
     
-<!---
-#CPTAGS:community-unsupported automation
-#TBICON:images/ruby_icon.png
--->
+
